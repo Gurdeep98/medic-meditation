@@ -1,0 +1,157 @@
+.onboarding {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .onboarding .overlap-wrapper {
+    background-color: #ffffff;
+    height: 812px;
+    overflow: hidden;
+    width: 375px;
+  }
+  
+  .onboarding .overlap {
+    height: 977px;
+    position: relative;
+    top: -165px;
+    width: 1198px;
+  }
+  
+  .onboarding .background {
+    height: 977px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1198px;
+  }
+  
+  .onboarding .overlap-group {
+    height: 812px;
+    position: relative;
+    top: 165px;
+    width: 406px;
+  }
+  
+  .onboarding .element {
+    height: 735px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 375px;
+  }
+  
+  .onboarding .rectangle {
+    background-color: #253334;
+    height: 119px;
+    left: 0;
+    position: absolute;
+    top: 693px;
+    width: 406px;
+  }
+  
+  .onboarding .button {
+    all: unset;
+    box-sizing: border-box;
+    height: 61px;
+    left: 27px;
+    position: absolute;
+    top: 789px;
+    width: 323px;
+  }
+  
+  .onboarding .div-wrapper {
+    background-color: #7c9a92;
+    border-radius: 10px;
+    height: 61px;
+    position: relative;
+    width: 321px;
+  }
+  
+  .onboarding .text-wrapper {
+    color: #ffffff;
+    font-family: "Alegreya Sans", Helvetica;
+    font-size: 25px;
+    font-weight: 500;
+    left: 76px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 16px;
+    white-space: nowrap;
+  }
+  
+  .onboarding .don-t-have-an {
+    color: #ffffff;
+    font-family: "Alegreya Sans", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 68px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 867px;
+    white-space: nowrap;
+  }
+  
+  .onboarding .span {
+    color: #ffffff;
+    font-family: "Alegreya Sans", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  
+  .onboarding .text-wrapper-2 {
+    font-weight: 500;
+  }
+  
+  .onboarding .text-wrapper-3 {
+    font-weight: 700;
+  }
+  
+  .onboarding .logo {
+    height: 439px;
+    left: 0;
+    position: absolute;
+    top: 229px;
+    width: 375px;
+  }
+  
+  .onboarding .welcome-text {
+    height: 94px;
+    left: 26px;
+    position: absolute;
+    top: 576px;
+    width: 328px;
+  }
+  
+  .onboarding .get-better-sleep {
+    color: #ffffff;
+    font-family: "Alegreya Sans", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 46px;
+  }
+  
+  .onboarding .div {
+    color: #ffffff;
+    font-family: "Alegreya", Helvetica;
+    font-size: 34px;
+    font-weight: 700;
+    left: 80px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+  }
+  

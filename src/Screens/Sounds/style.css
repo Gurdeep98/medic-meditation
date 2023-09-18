@@ -1,0 +1,415 @@
+.sounds {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sounds .overlap-wrapper {
+  background-color: #ffffff;
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.sounds .overlap {
+  height: 508px;
+  position: relative;
+  width: 812px;
+}
+
+.sounds .group {
+  background-color: #253334;
+  height: 812px;
+  left: 203px;
+  position: absolute;
+  top: -203px;
+  transform: rotate(-90deg);
+  width: 406px;
+}
+
+.sounds .rectangle {
+  background-color: #ffffffe6;
+  border-radius: 20px;
+  height: 71px;
+  left: 254px;
+  position: absolute;
+  top: 437px;
+  transform: rotate(-90deg);
+  width: 71px;
+}
+
+.sounds .relax-sounds {
+  height: 339px;
+  left: 142px;
+  position: absolute;
+  top: 18px;
+  width: 195px;
+}
+
+.sounds .overlap-group {
+  height: 231px;
+  left: -73px;
+  position: relative;
+  top: 71px;
+  width: 341px;
+}
+
+.sounds .img {
+  height: 197px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 341px;
+}
+
+.sounds .overlap-group-wrapper {
+  height: 189px;
+  left: 105px;
+  position: absolute;
+  top: 42px;
+  width: 77px;
+}
+
+.sounds .div {
+  height: 189px;
+  position: relative;
+  width: 73px;
+}
+
+.sounds .text-wrapper {
+  color: #ffffff;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: -39px;
+  letter-spacing: 0;
+  line-height: 18px;
+  opacity: 0.9;
+  position: absolute;
+  top: 76px;
+  transform: rotate(-90deg);
+  width: 189px;
+}
+
+.sounds .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Alegreya", Helvetica;
+  font-size: 27px;
+  font-weight: 500;
+  left: -56px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 96px;
+  transform: rotate(-90deg);
+}
+
+.sounds .play-button {
+  height: 138px;
+  left: 198px;
+  position: absolute;
+  top: 93px;
+  width: 41px;
+}
+
+.sounds .overlap-2 {
+  height: 138px;
+  position: relative;
+  width: 52px;
+}
+
+.sounds .rectangle-2 {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 39px;
+  left: -49px;
+  position: absolute;
+  top: 49px;
+  transform: rotate(-90deg);
+  width: 138px;
+}
+
+.sounds .text-wrapper-3 {
+  color: #000000;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: -7px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 70px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.sounds .group-2 {
+  height: 13px;
+  left: 40px;
+  position: absolute;
+  top: 62px;
+  width: 12px;
+}
+
+.sounds .div-2 {
+  height: 299px;
+  left: 377px;
+  position: absolute;
+  top: 38px;
+  width: 323px;
+}
+
+.sounds .group-3 {
+  height: 299px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 71px;
+}
+
+.sounds .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: -34px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 143px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.sounds .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 170px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.sounds .rectangle-3 {
+  height: 65px;
+  left: -117px;
+  position: absolute;
+  top: 117px;
+  width: 65px;
+}
+
+.sounds .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.75;
+  position: absolute;
+  top: 11px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.sounds .group-4 {
+  height: 296px;
+  left: 86px;
+  position: absolute;
+  top: 3px;
+  width: 71px;
+}
+
+.sounds .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: -30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 143px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.sounds .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 168px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.sounds .rectangle-4 {
+  height: 65px;
+  left: -116px;
+  position: absolute;
+  top: 115px;
+  width: 65px;
+}
+
+.sounds .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.75;
+  position: absolute;
+  top: 10px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.sounds .group-5 {
+  height: 297px;
+  left: 172px;
+  position: absolute;
+  top: 1px;
+  width: 71px;
+}
+
+.sounds .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: -31px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 144px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.sounds .element-listening {
+  color: #ffffff;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 171px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.sounds .rectangle-5 {
+  height: 65px;
+  left: -116px;
+  position: absolute;
+  top: 116px;
+  width: 65px;
+}
+
+.sounds .group-6 {
+  height: 299px;
+  left: 258px;
+  position: absolute;
+  top: 0;
+  width: 71px;
+}
+
+.sounds .overlap-group-2 {
+  height: 107px;
+  left: 13px;
+  position: absolute;
+  top: 107px;
+  width: 39px;
+}
+
+.sounds .text-wrapper-11 {
+  color: #ffffff;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: -41px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 41px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.sounds .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: -3px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 64px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.sounds .nav {
+  height: 173px;
+  left: 575px;
+  position: absolute;
+  top: 138px;
+  transform: rotate(-90deg);
+  width: 302px;
+}
+
+.sounds .header {
+  background-color: transparent;
+  height: 49px;
+  left: -79px;
+  position: absolute;
+  top: 163px;
+  transform: rotate(-90deg);
+  width: 326px;
+}
+
+.sounds .logo {
+  height: 232px;
+  left: -11px;
+  position: absolute;
+  top: -94px;
+  transform: rotate(90deg);
+  width: 283px;
+}
+
+.sounds .hamburger {
+  height: 18px;
+  left: 152px;
+  position: absolute;
+  top: -137px;
+  transform: rotate(90deg);
+  width: 22px;
+}
+
+.sounds .ellipse {
+  height: 35px;
+  left: 145px;
+  object-fit: cover;
+  position: absolute;
+  top: 152px;
+  transform: rotate(90deg);
+  width: 35px;
+}

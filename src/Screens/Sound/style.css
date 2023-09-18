@@ -1,0 +1,131 @@
+.sound {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sound .overlap-group-wrapper {
+  background-color: #ffffff;
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.sound .overlap-group {
+  height: 406px;
+  position: relative;
+  width: 812px;
+}
+
+.sound .group {
+  background-color: #253334;
+  height: 812px;
+  left: 203px;
+  position: absolute;
+  top: -203px;
+  transform: rotate(-90deg);
+  width: 406px;
+}
+
+.sound .time {
+  height: 50px;
+  left: 432px;
+  position: absolute;
+  top: 162px;
+  transform: rotate(-90deg);
+  width: 310px;
+}
+
+.sound .img {
+  height: 75px;
+  left: 523px;
+  position: absolute;
+  top: 149px;
+  transform: rotate(-90deg);
+  width: 304px;
+}
+
+.sound .title {
+  color: #ffffff;
+  font-family: "Alegreya", Helvetica;
+  font-size: 35px;
+  font-weight: 500;
+  left: 347px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 153px;
+  transform: rotate(-90deg);
+}
+
+.sound .arist {
+  color: #ffffff;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 375px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 174px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.sound .album-art {
+  height: 250px;
+  left: 155px;
+  position: absolute;
+  top: 62px;
+  transform: rotate(-90deg);
+  width: 250px;
+}
+
+.sound .nav {
+  height: 173px;
+  left: 575px;
+  position: absolute;
+  top: 138px;
+  transform: rotate(-90deg);
+  width: 302px;
+}
+
+.sound .div {
+  height: 49px;
+  left: -79px;
+  position: absolute;
+  top: 163px;
+  transform: rotate(-90deg);
+  width: 326px;
+}
+
+.sound .logo {
+  height: 232px;
+  left: -11px;
+  position: absolute;
+  top: -94px;
+  transform: rotate(90deg);
+  width: 283px;
+}
+
+.sound .hamburger {
+  height: 18px;
+  left: 152px;
+  position: absolute;
+  top: -137px;
+  transform: rotate(90deg);
+  width: 22px;
+}
+
+.sound .ellipse {
+  height: 35px;
+  left: 145px;
+  object-fit: cover;
+  position: absolute;
+  top: 152px;
+  transform: rotate(90deg);
+  width: 35px;
+}

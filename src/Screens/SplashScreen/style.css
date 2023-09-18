@@ -1,0 +1,63 @@
+.splash-screen {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .splash-screen .overlap-wrapper {
+    background-color: #ffffff;
+    height: 812px;
+    overflow: hidden;
+    width: 375px;
+  }
+  
+  .splash-screen .overlap {
+    height: 977px;
+    position: relative;
+    top: -165px;
+    width: 1198px;
+  }
+  
+  .splash-screen .background {
+    height: 977px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1198px;
+  }
+  
+  .splash-screen .overlap-group {
+    height: 812px;
+    position: relative;
+    top: 165px;
+    width: 406px;
+  }
+  
+  .splash-screen .element {
+    height: 735px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 375px;
+  }
+  
+  .splash-screen .rectangle {
+    background-color: #253334;
+    height: 119px;
+    left: 0;
+    position: absolute;
+    top: 693px;
+    width: 406px;
+  }
+  
+  .splash-screen .logo {
+    height: 453px;
+    left: 0;
+    position: absolute;
+    top: 349px;
+    width: 375px;
+  }
+  

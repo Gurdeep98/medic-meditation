@@ -1,0 +1,182 @@
+.sign-up {
+  background-color: #253334;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sign-up .div {
+  background-color: #253334;
+  height: 812px;
+  position: relative;
+  width: 375px;
+}
+
+.sign-up .overlap {
+  height: 278px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 345px;
+}
+
+.sign-up .logo {
+  height: 274px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 198px;
+}
+
+.sign-up .title {
+  height: 97px;
+  left: 35px;
+  position: absolute;
+  top: 181px;
+  width: 310px;
+}
+
+.sign-up .main-title {
+  color: #ffffff;
+  font-family: "Alegreya", Helvetica;
+  font-size: 30px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.sign-up .subtitle {
+  color: #ffffffb2;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 45px;
+  width: 306px;
+}
+
+.sign-up .name {
+  height: 32px;
+  left: 35px;
+  position: absolute;
+  top: 333px;
+  width: 308px;
+}
+
+.sign-up .vector {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 306px;
+}
+
+.sign-up .text-wrapper {
+  color: #bec2c2;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.sign-up .email {
+  height: 32px;
+  left: 35px;
+  position: absolute;
+  top: 405px;
+  width: 308px;
+}
+
+.sign-up .password {
+  height: 32px;
+  left: 35px;
+  position: absolute;
+  top: 477px;
+  width: 308px;
+}
+
+.sign-up .overlap-group {
+  height: 273px;
+  left: 0;
+  position: absolute;
+  top: 539px;
+  width: 375px;
+}
+
+.sign-up .overlap-group-wrapper {
+  height: 61px;
+  left: 27px;
+  position: absolute;
+  top: 0;
+  width: 323px;
+}
+
+.sign-up .div-wrapper {
+  background-color: #7c9a92;
+  border-radius: 10px;
+  height: 61px;
+  position: relative;
+  width: 321px;
+}
+
+.sign-up .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 115px;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.sign-up .already-have-an {
+  color: #ffffff;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 78px;
+  white-space: nowrap;
+}
+
+.sign-up .span {
+  color: #ffffff;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.sign-up .text-wrapper-3 {
+  font-weight: 500;
+}
+
+.sign-up .text-wrapper-4 {
+  font-weight: 700;
+}
+
+.sign-up .group {
+  height: 224px;
+  left: 0;
+  position: absolute;
+  top: 49px;
+  width: 375px;
+}

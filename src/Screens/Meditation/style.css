@@ -1,0 +1,198 @@
+.meditation {
+  background-color: #253334;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.meditation .overlap-wrapper {
+  background-color: #253334;
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.meditation .overlap {
+  height: 351px;
+  left: 59px;
+  position: relative;
+  top: 24px;
+  width: 753px;
+}
+
+.meditation .overlap-group {
+  height: 351px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 753px;
+}
+
+.meditation .home {
+  height: 173px;
+  left: 560px;
+  position: absolute;
+  top: 158px;
+  transform: rotate(-90deg);
+  width: 213px;
+}
+
+.meditation .sounds {
+  height: 20px;
+  left: 695px;
+  position: absolute;
+  top: 153px;
+  transform: rotate(-90deg);
+  width: 22px;
+}
+
+.meditation .header {
+  background-color: transparent;
+  height: 49px;
+  left: -138px;
+  position: absolute;
+  top: 138px;
+  transform: rotate(-90deg);
+  width: 326px;
+}
+
+.meditation .logo {
+  height: 232px;
+  left: -11px;
+  position: absolute;
+  top: -94px;
+  transform: rotate(90deg);
+  width: 283px;
+}
+
+.meditation .hamburger {
+  height: 18px;
+  left: 152px;
+  position: absolute;
+  top: -137px;
+  transform: rotate(90deg);
+  width: 22px;
+}
+
+.meditation .ellipse {
+  height: 35px;
+  left: 145px;
+  object-fit: cover;
+  position: absolute;
+  top: 152px;
+  transform: rotate(90deg);
+  width: 35px;
+}
+
+.meditation .character-meditating {
+  height: 217px;
+  left: 188px;
+  position: absolute;
+  top: 55px;
+  transform: rotate(-90deg);
+  width: 283px;
+}
+
+.meditation .time {
+  color: #ffffff;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 38px;
+  font-weight: 400;
+  left: 445px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 139px;
+  transform: rotate(-90deg);
+}
+
+.meditation .button {
+  height: 186px;
+  left: 520px;
+  position: absolute;
+  top: 70px;
+  width: 63px;
+}
+
+.meditation .div {
+  height: 186px;
+  position: relative;
+  width: 61px;
+}
+
+.meditation .rectangle {
+  background-color: #7c9a92;
+  border-radius: 10px;
+  height: 61px;
+  left: -62px;
+  position: absolute;
+  top: 62px;
+  transform: rotate(-90deg);
+  width: 186px;
+}
+
+.meditation .start-now {
+  color: #ffffff;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: -20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 77px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.meditation .title {
+  height: 293px;
+  left: 99px;
+  position: absolute;
+  top: 17px;
+  width: 100px;
+}
+
+.meditation .overlap-2 {
+  height: 293px;
+  position: relative;
+  width: 96px;
+}
+
+.meditation .text-wrapper {
+  color: #ffffff;
+  font-family: "Alegreya", Helvetica;
+  font-size: 35px;
+  font-weight: 500;
+  left: -56px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 122px;
+  transform: rotate(-90deg);
+}
+
+.meditation .sub {
+  color: #ffffff;
+  font-family: "Alegreya Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: -74px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.5;
+  position: absolute;
+  text-align: center;
+  top: 122px;
+  transform: rotate(-90deg);
+}
+
+.meditation .usr {
+  height: 22px;
+  left: 697px;
+  position: absolute;
+  top: 47px;
+  transform: rotate(-90deg);
+  width: 17px;
+}
